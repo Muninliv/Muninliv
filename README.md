@@ -1,6 +1,6 @@
 ## Livia Munin
 
-**`Estudante do curso de Desenvolvimento de Sistema do Senai A. Jacob Lafer´**
+**Estudante do curso de Desenvolvimento de Sistema do Senai A. Jacob Lafer**
 
 Me chamo Livia Oliveira Munin, tenho 17 anos e sou natural de São Paulo. Sou do terceiro ano do Sesi 265, com o curso técnico em Desenvolvimento de Sistemas. Atualmente após terminar o ensino médio pretendo entrar em uma faculdade cursando fisioterapia.
 
